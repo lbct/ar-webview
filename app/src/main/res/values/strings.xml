@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UCHWebViewer</string>
+    <string name="uri_default">https://augustallen.staging.8thwall.app/uch-ar</string>
+    <string name="send_button">Send</string>
+</resources>
